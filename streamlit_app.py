@@ -15,8 +15,8 @@ import json
 
 st.set_page_config(layout="wide")
 
-import opencc
-converter = opencc.OpenCC('s2hk.json')
+#import opencc
+#converter = opencc.OpenCC('s2hk.json')
 
 with codecs.open('sharc_en_rdict.json', 'r', 'utf') as f:
     rdict_en = json.load(f)
@@ -304,7 +304,7 @@ with tab1:
 
 with tab2: 
     t2_input_col1_1, t2_input_col1_2 = st.columns((4,1))
-    chosen_group = t2_input_col1_1.selectbox('Select a group', list(range(len(choosable))), 0, format_func=lambda x:converter.convert(choosable[x][1]))
+    chosen_group = t2_input_col1_1.selectbox('Select a group', list(range(len(choosable))), 0, format_func=lambda x:choosable[x][1])
     selected_languages = set(t2_input_col1_2.segmented_control('Language to display', options=list(language_map.keys()), format_func=language_map.get, selection_mode='multi',  key='tab2inp_lang', default=['en', 'tc']), )
     t2_input_col2_1, t2_input_col2_2, t2_input_col2_3 = st.columns((1,1,1))
     bold = t2_input_col2_1.checkbox('Bold clauses', value=False, key='t2_show_bold')
@@ -316,18 +316,17 @@ with tab2:
         st.stop()
 
     group_title = choosable[chosen_group][1]
-    #st.subheader(converter.convert(group_title))
-    st.html(f'<div style="font-size: 150%; color: Black; font-weight: bold;">{converter.convert(group_title)}</div>')
+    st.html(f'<div style="font-size: 150%; color: Black; font-weight: bold;">{group_title}</div>')
 
     full_id = choosable[chosen_group][0]
     group_id = full_id[0]
     subject_id = full_id[1]
 
     ename, cname = groups[group_id]['name']
-    tcname = converter.convert(cname)
+    tcname = cname
 
     subj_ename, subj_cname = groups[group_id]['content'][subject_id]['name']
-    subj_tcname = converter.convert(subj_cname)
+    subj_tcname = subj_cname
     for item in choosable[chosen_group][2]: 
         display_clause(item, selected_languages, bold, disable_notification_localization, original_in_expander)
     
