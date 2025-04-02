@@ -1,0 +1,1600 @@
+{
+    "F1.1.1": {
+        "en": {
+            "diff": "There are differences in hospital decision-making, governance and administrative management systems.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or hospital management institution establishes/formulates a hospital governance and administrative management system, and clarifies the management objectives, management structure and responsibilities."
+        },
+        "sc": {
+            "diff": "医院决策治理和行政管理体系存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或医院管理机构建立/制定医院治理和行政管理体系，明确管理目标、管理架构及职责。"
+        },
+        "tc": {
+            "diff": "醫院決策治理和行政管理體系存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或醫院管理機構建立/制定醫院治理和行政管理體系，明確管理目標、管理架構及職責。"
+        }
+    },
+    "F1.1.2": {
+        "en": {
+            "diff": "There is a difference between the main body of the medium and long-term development plan and the annual work plan of the hospital.",
+            "cons": "It shall be implemented in accordance with the local \"Measures for the Management of Hospital Management Institutions\".",
+            "prac": "The hospital or hospital management organization formulates development plans and annual plans and organizes their implementation."
+        },
+        "sc": {
+            "diff": "制定医院中长期发展规划与年度工作计划的主体存在差异。",
+            "cons": "按照当地《医院管理机构管理办法》实施。",
+            "prac": "医院或医院管理机构制定发展规划和年度计划并组织落实。"
+        },
+        "tc": {
+            "diff": "制定醫院中長期發展規劃與年度工作計劃的主體存在差異。",
+            "cons": "按照當地《醫院管理機構管理辦法》實施。",
+            "prac": "醫院或醫院管理機構制定發展規劃和年度計劃並組織落實。"
+        }
+    },
+    "F3.1.1": {
+        "en": {
+            "diff": "There are differences in the response mechanism and initiation process of emergency medical rescue and treatment, the annual vulnerability analysis report of the hospital, the construction project plan of \"combining peacetime and wartime, prevention and control\", the emergency plan and activation process of \"convertible wards\", and the post-disaster recovery plan.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Hospitals or hospital management institutions shall formulate emergency medical rescue and treatment plans for public health emergencies and major accidents and disasters, as well as disaster reduction, preparedness, disaster relief and post-disaster recovery systems and implementation plans.\nHospitals conduct risk assessments or disaster vulnerability analyses based on their own actual conditions."
+        },
+        "sc": {
+            "diff": "紧急医疗救援与救治响应机制和启动流程、医院年度脆弱性分析报告、“平战结合、防治结合”建设项目方案、“可转换病区”应急预案和启动流程、灾后恢复计划等有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或医院管理机构应制定突发公共卫生事件、重大事故灾害的紧急医疗救援与救治方案和减灾、备灾、救灾及灾后恢复制度及实施方案。\n医院结合自身实际情况进行风险评估或灾害脆弱性分析。"
+        },
+        "tc": {
+            "diff": "緊急醫療救援與救治響應機制和啓動流程、醫院年度脆弱性分析報告、“平戰結合、防治結合”建設項目方案、“可轉換病區”應急預案和啓動流程、災後恢復計劃等有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或醫院管理機構應制定突發公共衞生事件、重大事故災害的緊急醫療救援與救治方案和減災、備災、救災及災後恢復制度及實施方案。\n醫院結合自身實際情況進行風險評估或災害脆弱性分析。"
+        }
+    },
+    "F3.1.2": {
+        "en": {
+            "diff": "There are differences in the responsibilities and processes of hospital general duty emergency management.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Establish an emergency command system for hospitals or management institutions.\nThe hospital has established an emergency duty system to clarify job responsibilities and disposal processes."
+        },
+        "sc": {
+            "diff": "医院总值班应急管理的职责和流程有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.建立医院或管理机构应急指挥系统。\n医院建立应急值班制度，明确岗位职责和处置流程。"
+        },
+        "tc": {
+            "diff": "醫院總值班應急管理的職責和流程有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.建立醫院或管理機構應急指揮系統。\n醫院建立應急值班制度，明確崗位職責和處置流程。"
+        }
+    },
+    "F3.1.4": {
+        "en": {
+            "diff": "There are differences in the requirements for emergency training and drills.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management institutions should establish a system for emergency training and drills, and clarify the content, frequency and process of emergency training."
+        },
+        "sc": {
+            "diff": "应急培训、演练要求有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构应建立应急培训和演练的制度，明确应急培训内容、频次及演练过程。"
+        },
+        "tc": {
+            "diff": "應急培訓、演練要求有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構應建立應急培訓和演練的制度，明確應急培訓內容、頻次及演練過程。"
+        }
+    },
+    "F3.2.2": {
+        "en": {
+            "diff": "There were differences in the setting of pre-screening and triage sites and the management of waiting areas for febrile patients.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management institutions shall formulate a system for pre-examination and triage of infectious diseases, and clarify the management requirements for pre-examination and triage sites and waiting areas for fever patients."
+        },
+        "sc": {
+            "diff": "预检分诊的场所设置和发热患者候诊区域管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定传染病预检分诊制度，明确预检分诊场所和发热患者候诊区域等管理要求。"
+        },
+        "tc": {
+            "diff": "預檢分診的場所設置和發熱患者候診區域管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定傳染病預檢分診制度，明確預檢分診場所和發熱患者候診區域等管理要求。"
+        }
+    },
+    "Q1.1.1": {
+        "en": {
+            "diff": "There are differences in the content and method of patient identification (e.g., the content of the wristband identification has a drug allergy label, no infectious disease label, etc.).",
+            "cons": "Implement according to local management measures.",
+            "prac": "Improve the patient identification system, and clarify the requirements for allergies and infectious diseases on the patient's wristband and/or bedside."
+        },
+        "sc": {
+            "diff": "患者标识内容和方式有差异（如腕带标识内容有药物过敏标识，无传染病标识等）。",
+            "cons": "按当地管理办法实施。",
+            "prac": "完善患者身份识别制度，明确患者腕带和/或床头有过敏及传染病标识要求。"
+        },
+        "tc": {
+            "diff": "患者標識內容和方式有差異（如腕帶標識內容有藥物過敏標識，無傳染病標識等）。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "完善患者身份識別制度，明確患者腕帶和/或牀頭有過敏及傳染病標識要求。"
+        }
+    },
+    "Q1.2.1": {
+        "en": {
+            "diff": "There are differences in the registration method, content, and storage form of critical value.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or hospital management agency shall formulate requirements for the whole process of recording and preserving the information system such as the issuance and receipt of critical values, and the information system can be traced back to the whole process."
+        },
+        "sc": {
+            "diff": "危急值登记方式、内容、保存形式有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或医院管理机构制定危急值发出、接收等信息系统全程记录和保存要求，信息系统全程可追溯。"
+        },
+        "tc": {
+            "diff": "危急值登記方式、內容、保存形式有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或醫院管理機構制定危急值發出、接收等信息系統全程記錄和保存要求，信息系統全程可追溯。"
+        }
+    },
+    "Q1.3.1": {
+        "en": {
+            "diff": "There are differences in the management of high-risk and high-alert drug lists and processes.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Establish a list of high-alert (high-risk) drugs and a management system."
+        },
+        "sc": {
+            "diff": "高危和高警示药品目录和流程管理有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "建立高警示（高危）药品目录和管理制度。"
+        },
+        "tc": {
+            "diff": "高危和高警示藥品目錄和流程管理有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "建立高警示（高危）藥品目錄和管理制度。"
+        }
+    },
+    "Q1.4.1": {
+        "en": {
+            "diff": "There are differences in the number of participants in the pre-operative safety check.",
+            "cons": "Surgical safety verification is carried out in accordance with WHO.",
+            "prac": "Before anesthesia is performed, the surgical safety check should be checked by at least the operating room nurse and the anesthesiologist."
+        },
+        "sc": {
+            "diff": "手术前安全核查参加人员有差异。",
+            "cons": "手术安全核查按WHO实施。",
+            "prac": "麻醉实施前，手术安全核查至少由手术室护士与麻醉医生两方核查。"
+        },
+        "tc": {
+            "diff": "手術前安全核查參加人員有差異。",
+            "cons": "手術安全核查按WHO實施。",
+            "prac": "麻醉實施前，手術安全核查至少由手術室護士與麻醉醫生兩方核查。"
+        }
+    },
+    "Q1.6.1": {
+        "en": {
+            "diff": "There is a difference in the grading of fall injuries.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or hospital management organization shall formulate a management system for the prevention of falls/beds, and clarify the injury grading standards and management requirements."
+        },
+        "sc": {
+            "diff": "跌倒伤情分级存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或医院管机构制定预防跌倒/坠床的管理制度，明确伤情分级标准及管理要求。"
+        },
+        "tc": {
+            "diff": "跌倒傷情分級存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或醫院管機構制定預防跌倒/墜牀的管理制度，明確傷情分級標準及管理要求。"
+        }
+    },
+    "Q1.7.1": {
+        "en": {
+            "diff": "There are differences in the frequency and method of the three-level ward round system.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management agency shall establish a ward round system to clarify the level of ward rounds (specialist doctor rounds or secondary doctor rounds), frequency (emergency and non-emergency) and ward round record requirements."
+        },
+        "sc": {
+            "diff": "三级查房制度频率、方式存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构建立查房制度，明确查房的层级（专科医生查房或二级医生查房）、频率（急症及非急症）及查房记录要求。"
+        },
+        "tc": {
+            "diff": "三級查房制度頻率、方式存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構建立查房制度，明確查房的層級（專科醫生查房或二級醫生查房）、頻率（急症及非急症）及查房記錄要求。"
+        }
+    },
+    "Q1.8.1": {
+        "en": {
+            "diff": "There are differences in the informed consent requirements for the patient-bound use regime.",
+            "cons": "Implement in accordance with local management methods.",
+            "prac": "The hospital or hospital management body formulates and implements the system and process for the use of patient constraints."
+        },
+        "sc": {
+            "diff": "患者约束使用制度的有关知情同意要求存在差异。",
+            "cons": "按照当地管理办法实施。",
+            "prac": "医院或医院管理机构制定患者约束使用制度和流程，并实施。"
+        },
+        "tc": {
+            "diff": "患者約束使用制度的有關知情同意要求存在差異。",
+            "cons": "按照當地管理辦法實施。",
+            "prac": "醫院或醫院管理機構制定患者約束使用制度和流程，並實施。"
+        }
+    },
+    "Q2.3.1": {
+        "en": {
+            "diff": "There are differences in the categories of vulnerable populations, including children and pregnant women.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Improve provisions on the management of vulnerable populations, clarifying the categories and scope of vulnerable populations."
+        },
+        "sc": {
+            "diff": "弱势人群类别有差异，没有包括儿童、孕产妇。",
+            "cons": "按当地管理办法实施。",
+            "prac": "完善弱势人群管理规定，明确弱势人群类别和范围。"
+        },
+        "tc": {
+            "diff": "弱勢人羣類別有差異，沒有包括兒童、孕產婦。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "完善弱勢人羣管理規定，明確弱勢人羣類別和範圍。"
+        }
+    },
+    "Q3.1.1": {
+        "en": {
+            "diff": "There are differences in the content and frequency of the activities of the quality management system and the supervision of the management department and the quality control team of the department.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management bodies (e.g. the Hong Kong Hospital Authority) formulate a two-level quality management system or plan for hospitals and departments - clarify the organizational management structure: management committee, management department (e.g. Quality and Safety Office and Hospital Sense Office), department team, and clarify the job responsibilities and work requirements (content and frequency of activities) at each level."
+        },
+        "sc": {
+            "diff": "质量管理体系及管理部门监督和科室质控小组活动的内容、频率有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构（如香港医管局）制定院科两级质量管理制度或方案——明确组织管理架构：管理委员会、管理部门（如质素安全办及院感办公室）、科室小组，明确各层级工作职责与工作要求（活动内容和频率）。"
+        },
+        "tc": {
+            "diff": "質量管理體系及管理部門監督和科室質控小組活動的內容、頻率有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構（如香港醫管局）制定院科兩級質量管理制度或方案——明確組織管理架構：管理委員會、管理部門（如質素安全辦及院感辦公室）、科室小組，明確各層級工作職責與工作要求（活動內容和頻率）。"
+        }
+    },
+    "Q3.1.2": {
+        "en": {
+            "diff": "1. There are differences in the level and frequency of ward rounds.\n2. The hospital nursing department should lead the establishment of a nursing quality and safety management system, and implement relevant responsibilities, which is different from the establishment of a \"nursing quality and safety management committee\" required by the standard.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management agency shall establish a ward round system to clarify the level of ward rounds (specialist doctor rounds or secondary doctor rounds), frequency (emergency and non-emergency) and ward round record requirements.\n2. Regularly study the quality and safety of nursing, and be responsible for the implementation of nursing quality and safety management."
+        },
+        "sc": {
+            "diff": "1.查房层级、频次有差异。\n2.由医院护理部主导建立护理质量与安全管理体系，并落实相关职责，与标准要求的成立“护理质量与安全管理委员会”等存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构建立查房制度，明确查房的层级（专科医生查房或二级医生查房）、频率（急症及非急症）及查房记录要求。\n2.定期研究护理质量与安全工作，负责落实护理质量与安全管理等工作。"
+        },
+        "tc": {
+            "diff": "1.查房層級、頻次有差異。\n2.由醫院護理部主導建立護理質量與安全管理體系，並落實相關職責，與標準要求的成立“護理質量與安全管理委員會”等存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構建立查房制度，明確查房的層級（專科醫生查房或二級醫生查房）、頻率（急症及非急症）及查房記錄要求。\n2.定期研究護理質量與安全工作，負責落實護理質量與安全管理等工作。"
+        }
+    },
+    "Q3.1.4": {
+        "en": {
+            "diff": "There are differences in the management of medical quality training (such as the content and frequency of training for medical quality management personnel) in hospitals.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution shall establish a training mechanism and organize its implementation."
+        },
+        "sc": {
+            "diff": "医院对医疗质量培训的管理（如医疗质量管理人员的培训内容及频次）有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构建立培训机制并组织实施。"
+        },
+        "tc": {
+            "diff": "醫院對醫療質量培訓的管理（如醫療質量管理人員的培訓內容及頻次）有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構建立培訓機制並組織實施。"
+        }
+    },
+    "Q3.2.1": {
+        "en": {
+            "diff": "There are differences in the number and frequency of quality monitoring and control of single diseases and clinical pathways.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution clarifies the list of diseases and quality monitoring indicators for single disease (disease or surgery) and clinical pathway management."
+        },
+        "sc": {
+            "diff": "单病种、临床路径管理的病种及病种数量、质量监测控制内容及频率有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构明确单病种（疾病或手术）和临床路径管理的病种目录及质量监测指标。"
+        },
+        "tc": {
+            "diff": "單病種、臨牀路徑管理的病種及病種數量、質量監測控制內容及頻率有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構明確單病種（疾病或手術）和臨牀路徑管理的病種目錄及質量監測指標。"
+        }
+    },
+    "Q3.3.1": {
+        "en": {
+            "diff": "There are differences in the composition of the three-level surveillance system for nosocomial infections.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution clarifies the personnel composition and job responsibilities of the three-level organizational monitoring system for hospital infection management."
+        },
+        "sc": {
+            "diff": "医院感染三级监控体系人员组成存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构明确医院感染管理三级组织监控体系人员组成及岗位职责。"
+        },
+        "tc": {
+            "diff": "醫院感染三級監控體系人員組成存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構明確醫院感染管理三級組織監控體系人員組成及崗位職責。"
+        }
+    },
+    "Q3.3.2": {
+        "en": {
+            "diff": "There are differences in the settings of the infectious disease department, fever clinic and intestinal clinic in hospitals.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution shall formulate management requirements for infectious disease departments and fever clinics.\n2. Hospitals or management institutions shall formulate management requirements for the admission and treatment of infectious disease patients with different transmission routes."
+        },
+        "sc": {
+            "diff": "医院感染性疾病科、发热门诊、肠道门诊设置存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构制定感染性疾病科、发热门诊等管理要求。\n2.医院或管理机构制定不同传播途径的传染病患者分区收治的管理要求。"
+        },
+        "tc": {
+            "diff": "醫院感染性疾病科、發熱門診、腸道門診設置存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構制定感染性疾病科、發熱門診等管理要求。\n2.醫院或管理機構制定不同傳播途徑的傳染病患者分區收治的管理要求。"
+        }
+    },
+    "Q3.3.4": {
+        "en": {
+            "diff": "There are differences in the key departments, key links, high-risk groups and monitoring items of hospital infection management in hospitals or management institutions.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management institutions shall formulate a hospital infection management system, clarifying the key departments, key links, the scope of high-risk groups, and monitoring items for management."
+        },
+        "sc": {
+            "diff": "医院或管理机构对医院感染管理的重点部门、重点环节、高危人群范围和监测项目存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定医院感染管理制度，明确管理的重点部门、重点环节、高危人群范围和监测项目。"
+        },
+        "tc": {
+            "diff": "醫院或管理機構對醫院感染管理的重點部門、重點環節、高危人羣範圍和監測項目存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定醫院感染管理制度，明確管理的重點部門、重點環節、高危人羣範圍和監測項目。"
+        }
+    },
+    "Q3.3.5": {
+        "en": {
+            "diff": "There are differences in risk assessment in key sectors, nosocomial infection surveillance programs, and risk factor monitoring scope.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution shall formulate a risk assessment system and process for hospital infection, and clarify the risk assessment departments and intervention assessments; Formulate relevant systems and procedures for key monitoring items and scope of nosocomial infections, and facilities."
+        },
+        "sc": {
+            "diff": "在重点部门风险评估、医院感染监测项目、危险因素监测范围等存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定医院感染风险评估制度、流程，明确开展风险评估科室及干预评估等；制定医院感染重点监测项目及范围相关制度流程，并设施。"
+        },
+        "tc": {
+            "diff": "在重點部門風險評估、醫院感染監測項目、危險因素監測範圍等存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定醫院感染風險評估制度、流程，明確開展風險評估科室及干預評估等；制定醫院感染重點監測項目及範圍相關制度流程，並設施。"
+        }
+    },
+    "Q3.3.6": {
+        "en": {
+            "diff": "1. There are differences in the hierarchical management of antimicrobial drug lists.\n2. There are differences in the management process of prescribing authority and ad hoc procurement.\n3. There are differences in the monitoring and evaluation criteria for the clinical application of antimicrobial drugs.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Establish a management organization for the clinical use of antimicrobials, such as the Antibiotic Orientation Program (ASP) Working Group.\n2. The right to prescribe antimicrobial drugs and the temporary procurement process shall be subject to territorial management measures.\n3. Establish guidelines for the clinical application of antimicrobial drugs.\n4. Establish monitoring and evaluation standards for the clinical application of antimicrobial drugs."
+        },
+        "sc": {
+            "diff": "1.抗菌药物目录分级管理有差异。\n2.处方权和临时采购管理流程有差异。\n3.抗菌药物临床应用监测和评价标准有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.建立抗菌药物临床应用的管理组织，如抗生素导向计划 (ASP) 工作小组。\n2.抗菌药物处方权和临时采购流程执行属地管理办法。\n3.建立抗菌药物临床应用指南。\n4.建立抗菌药物临床应用监测和评价标准。"
+        },
+        "tc": {
+            "diff": "1.抗菌藥物目錄分級管理有差異。\n2.處方權和臨時採購管理流程有差異。\n3.抗菌藥物臨牀應用監測和評價標準有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.建立抗菌藥物臨牀應用的管理組織，如抗生素導向計劃 (ASP) 工作小組。\n2.抗菌藥物處方權和臨時採購流程執行屬地管理辦法。\n3.建立抗菌藥物臨牀應用指南。\n4.建立抗菌藥物臨牀應用監測和評價標準。"
+        }
+    },
+    "Q3.3.7": {
+        "en": {
+            "diff": "1. There are differences in the monitoring of disinfection effect and endoscope cleaning in different systems.\n2. There are differences in the barcode information and list storage of high-risk disposable consumables.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution has a disinfectant management system, and the disinfection effect is clearly monitored, analyzed, and recorded.\n2. The hospital or management institution has an endoscopic cleaning and disinfection management system and a cleaning and disinfection monitoring process.\n3. There is a management system and use process for high-risk disposable consumables."
+        },
+        "sc": {
+            "diff": "1.在消毒效果监测、不同系统内镜清洗方面存在差异。\n2.高危一次性耗材条码资料及清单保存存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构有消毒液管理制度，明确消毒效果定期监测分析记录。\n2.医院或管理机构有内镜清洗消毒管理制度、清洗消毒监测流程。\n3.有高危一次性耗材管理制度和使用流程。"
+        },
+        "tc": {
+            "diff": "1.在消毒效果監測、不同系統內鏡清洗方面存在差異。\n2.高危一次性耗材條碼資料及清單保存存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構有消毒液管理制度，明確消毒效果定期監測分析記錄。\n2.醫院或管理機構有內鏡清洗消毒管理制度、清洗消毒監測流程。\n3.有高危一次性耗材管理制度和使用流程。"
+        }
+    },
+    "Q3.3.8": {
+        "en": {
+            "diff": "There are differences in the management of medical waste and waste liquid in hospitals.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Sewage treatment meets the relevant legal requirements of Hong Kong.\n2. There are relevant requirements for the classification of medical waste."
+        },
+        "sc": {
+            "diff": "医院医疗废物、废液管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.污水处理符合香港相关法律要求。\n2.医疗废物分类有相关要求。"
+        },
+        "tc": {
+            "diff": "醫院醫療廢物、廢液管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.污水處理符合香港相關法律要求。\n2.醫療廢物分類有相關要求。"
+        }
+    },
+    "Q3.3.9": {
+        "en": {
+            "diff": "There are differences in the management of infectious disease information reporting (including the types of disease reports, classification, reporting time limits, etc.).",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management institutions have a management system for reporting infectious diseases, clarifying the type, process, time limit and defendant of the report."
+        },
+        "sc": {
+            "diff": "传染病信息报告管理（包括疾病报告种类、分类、上报时限等）存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构有传染病报告管理制度，明确报告种类、流程、时限及被告人。"
+        },
+        "tc": {
+            "diff": "傳染病信息報告管理（包括疾病報告種類、分類、上報時限等）存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構有傳染病報告管理制度，明確報告種類、流程、時限及被告人。"
+        }
+    },
+    "Q3.4.1": {
+        "en": {
+            "diff": "1. There are differences in the composition and job responsibilities of the Pharmaceutical Administration and Therapeutics Committee.\n2. There is a difference in the proportion of pharmacy personnel in professional and technical personnel.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or hospital management body clarifies the functions of the Pharmaceutical Administration and Therapeutics Committee and each committee.\n2. The number of pharmacists shall be managed according to territorial requirements."
+        },
+        "sc": {
+            "diff": "1.药事管理与药物治疗学委员会人员组成与工作职责有差异。\n2.对药学人员占专业技术人员比例有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或医院管理机构明确药事管理与药物治疗学委员会及各委员会职能。\n2.对药师人数按属地要求管理。"
+        },
+        "tc": {
+            "diff": "1.藥事管理與藥物治療學委員會人員組成與工作職責有差異。\n2.對藥學人員佔專業技術人員比例有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或醫院管理機構明確藥事管理與藥物治療學委員會及各委員會職能。\n2.對藥師人數按屬地要求管理。"
+        }
+    },
+    "Q3.4.2": {
+        "en": {
+            "diff": "1. There are differences in the management of standby drugs in the ward and the frequency of inspection.\n2. There are differences in the management of the expiration date of drugs after packaging.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Establish a drug quality management system, including refrigerator/cold chain management, expiration date management, sub-packaged drug management, quality inspection frequency and content, etc."
+        },
+        "sc": {
+            "diff": "1.病区备用药品管理及检查频次存在差异。\n2.药品分装后效期管理存在差异。 ",
+            "cons": "按当地管理办法实施。",
+            "prac": "建立药品质量管理制度，包括冰箱/冷链管理、效期管理、分装药品管理、质量检查频次和内容等。"
+        },
+        "tc": {
+            "diff": "1.病區備用藥品管理及檢查頻次存在差異。\n2.藥品分裝後效期管理存在差異。 ",
+            "cons": "按當地管理辦法實施。",
+            "prac": "建立藥品質量管理制度，包括冰箱/冷鏈管理、效期管理、分裝藥品管理、質量檢查頻次和內容等。"
+        }
+    },
+    "Q3.4.3": {
+        "en": {
+            "diff": "1. There are differences in the management methods and processes of hemp essence drugs.\n2. There are differences in the management of toxic drugs and pharmaceutical precursor chemicals.\n3. There are differences in the priority use of national essential medicines.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The management of dangerous drugs (narcotic drugs) is standardized, and guidelines for ordering, storage, inspection, registration and management of violations are established.\n2. Toxic drugs and pharmaceutical precursor chemicals shall be managed according to territorial requirements.\n3. Priority should be given to the use of national essential drugs, and management should be carried out according to territorial requirements."
+        },
+        "sc": {
+            "diff": "1.麻精药品管理方式和流程有差异。\n2.毒性药品和药品类易制毒化学品管理有差异。\n3.优先使用国家基本药物有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.危险药物（麻精药品）管理有规范，建立订购、储存、检查、登记及违规行为管理指引。\n2.毒性药品和药品类易制毒化学品按属地要求管理。\n3.优先使用国家基本药物按属地要求管理。"
+        },
+        "tc": {
+            "diff": "1.麻精藥品管理方式和流程有差異。\n2.毒性藥品和藥品類易製毒化學品管理有差異。\n3.優先使用國家基本藥物有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.危險藥物（麻精藥品）管理有規範，建立訂購、儲存、檢查、登記及違規行為管理指引。\n2.毒性藥品和藥品類易製毒化學品按屬地要求管理。\n3.優先使用國家基本藥物按屬地要求管理。"
+        }
+    },
+    "Q3.4.4": {
+        "en": {
+            "diff": "There are differences in the number of full-time clinical pharmacists.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Clinical pharmacy services are carried out in accordance with local standards or guidelines."
+        },
+        "sc": {
+            "diff": "专职临床药师配备数量要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": " 按当地标准或指南开展临床药学服务。"
+        },
+        "tc": {
+            "diff": "專職臨牀藥師配備數量要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": " 按當地標準或指南開展臨牀藥學服務。"
+        }
+    },
+    "Q3.4.5": {
+        "en": {
+            "diff": "1. There are differences in the management of doctors' prescribing rights.\n2. There are differences in prescription reviews (evaluation of the appropriateness of prescriptions).\n3. There are differences in the management of off-label medication and self-brought drugs.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The requirements for doctors' prescription rights shall be managed according to the requirements of territorial management.\n2. Prescription reviews are evaluated according to the appropriateness of local prescriptions (such as antimicrobial adequacy evaluation).\n3. Establish a management system for off-label drug use and self-brought drugs."
+        },
+        "sc": {
+            "diff": "1.医生处方权管理存在差异。\n2.处方点评（处方的适当度评价）存在差异。\n3.超说明书用药、自带药品管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.对医生处方权要求，按属地管理要求管理。\n2.处方点评按当地处方的适当度评价方法（如抗菌药物适度性评价）。\n3.建立超说明书用药、自带药品管理制度。"
+        },
+        "tc": {
+            "diff": "1.醫生處方權管理存在差異。\n2.處方點評（處方的適當度評價）存在差異。\n3.超説明書用藥、自帶藥品管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.對醫生處方權要求，按屬地管理要求管理。\n2.處方點評按當地處方的適當度評價方法（如抗菌藥物適度性評價）。\n3.建立超説明書用藥、自帶藥品管理制度。"
+        }
+    },
+    "Q3.5.1": {
+        "en": {
+            "diff": "There are differences in the management of regulated medical technology and diagnosis and treatment subjects carried out by hospitals.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The regulated medical technology services (e.g., organ transplantation) carried out by the hospital are consistent with the subjects approved by the governing body."
+        },
+        "sc": {
+            "diff": "医院开展的受管制医疗技术、诊疗科目的管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院开展的受管制医疗技术服务（如器官移植）与管理机构批准的诊疗科目一致。"
+        },
+        "tc": {
+            "diff": "醫院開展的受管制醫療技術、診療科目的管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院開展的受管制醫療技術服務（如器官移植）與管理機構批准的診療科目一致。"
+        }
+    },
+    "Q3.5.2": {
+        "en": {
+            "diff": "1. There are differences in medical technology classification, surgical classification, catalog management, and authorization.\n2. There are differences in the management organization, scope and frequency of evaluation of medical technology.\n3. There are differences in the management scope, access, ethical review process and requirements of new technologies.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution formulates the management catalog and management requirements for high-risk medical technologies (such as super-large and extra-large technologies and surgeries), and clarifies the qualifications, authorizations and approval processes of personnel.\n2. The hospital or management institution shall formulate a medical technology management system, and clarify the management organization, assessment scope (such as high-risk medical technology and surgery), monitoring indicators and frequency.\n3. The hospital or governing body formulates new technology management requirements, access procedures, content and scope of ethical review (such as clinical research), and adverse event reporting requirements."
+        },
+        "sc": {
+            "diff": "1.医疗技术分类、手术分级、目录管理、授权存在差异。\n2.医疗技术的管理组织、评估的范围和频次存在差异。\n3.新技术的管理范围、准入、伦理审查流程和要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构制定高风险医疗技术（如超大型及特别超大型技术、手术）的管理目录及管理要求，明确人员资质、授权及审批流程。\n2.医院或管理机构制定医疗技术管理制度，明确管理组织、评估范围（如高风险医疗技术及手术）、监测指标和频率。\n3.医院或管理机构制定新技术管理要求、准入流程、伦理审查内容和范围（如临床研究）、不良事件报告要求。"
+        },
+        "tc": {
+            "diff": "1.醫療技術分類、手術分級、目錄管理、授權存在差異。\n2.醫療技術的管理組織、評估的範圍和頻次存在差異。\n3.新技術的管理範圍、准入、倫理審查流程和要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構制定高風險醫療技術（如超大型及特別超大型技術、手術）的管理目錄及管理要求，明確人員資質、授權及審批流程。\n2.醫院或管理機構制定醫療技術管理制度，明確管理組織、評估範圍（如高風險醫療技術及手術）、監測指標和頻率。\n3.醫院或管理機構制定新技術管理要求、准入流程、倫理審查內容和範圍（如臨牀研究）、不良事件報告要求。"
+        }
+    },
+    "Q3.5.4": {
+        "en": {
+            "diff": "There are differences in the management, review process, scope, and management of personal technical files for medical technology authorizations.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or department shall formulate a medical technology authorization and dynamic management system for medical personnel, and clarify the scope and process of authorization at the two levels of the hospital and department."
+        },
+        "sc": {
+            "diff": "医疗技术授权的管理、审查流程、范围及个人专业技术档案管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或科室制定医务人员医疗技术授权及动态管理制度，明确院科两级授权的范围、流程。"
+        },
+        "tc": {
+            "diff": "醫療技術授權的管理、審查流程、範圍及個人專業技術檔案管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或科室制定醫務人員醫療技術授權及動態管理制度，明確院科兩級授權的範圍、流程。"
+        }
+    },
+    "Q3.5.5": {
+        "en": {
+            "diff": "There are differences in the form and content of medical technology disclosure.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management bodies formulate requirements for the form and content of medical technology disclosure."
+        },
+        "sc": {
+            "diff": "医疗技术对外公开的形式、内容存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定医疗技术对外公开的形式、内容要求。"
+        },
+        "tc": {
+            "diff": "醫療技術對外公開的形式、內容存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定醫療技術對外公開的形式、內容要求。"
+        }
+    },
+    "Q4.1.1": {
+        "en": {
+            "diff": "There are differences in the initiation process and appointment method of multidisciplinary outpatient clinics.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution formulates a multidisciplinary outpatient management system, clarifying the catalog, process (SOP) and implementation requirements."
+        },
+        "sc": {
+            "diff": "多学科门诊启动流程、预约方式存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定多学科门诊管理制度，明确目录、流程（SOP）及实施要求。"
+        },
+        "tc": {
+            "diff": "多學科門診啓動流程、預約方式存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定多學科門診管理制度，明確目錄、流程（SOP）及實施要求。"
+        }
+    },
+    "Q4.1.2": {
+        "en": {
+            "diff": "There are differences in the screening and process of pre-screening and triage of outpatient infectious diseases.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Management agencies and hospitals shall formulate guidelines for the screening and process of pre-examination and triage of outpatient infectious diseases."
+        },
+        "sc": {
+            "diff": "门诊传染病预检分诊的甄别及流程存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "管理机构和医院制定门诊传染病预检分诊的甄别及流程指引。"
+        },
+        "tc": {
+            "diff": "門診傳染病預檢分診的甄別及流程存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "管理機構和醫院制定門診傳染病預檢分診的甄別及流程指引。"
+        }
+    },
+    "Q4.2.1": {
+        "en": {
+            "diff": "1. There are differences in the types and procedures of key emergency diseases.\n2. There are differences in the classification and grading of acute and critical diseases.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management institutions shall formulate management systems for key emergency diseases and acute and critical diseases, and clarify management requirements and procedures."
+        },
+        "sc": {
+            "diff": "1.急诊重点病种及流程存在差异。\n2.急危重症的分类、分级存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定急诊重点病种、急危重症管理制度，明确管理要求及流程。"
+        },
+        "tc": {
+            "diff": "1.急診重點病種及流程存在差異。\n2.急危重症的分類、分級存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定急診重點病種、急危重症管理制度，明確管理要求及流程。"
+        }
+    },
+    "Q4.2.2": {
+        "en": {
+            "diff": "There are differences in the definition of vulnerable populations/patients, and the scope of services.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management agencies clarify the categories and scope of vulnerable populations, and formulate guidelines for convenient measures for vulnerable populations/patients."
+        },
+        "sc": {
+            "diff": "弱势人群/患者的定义、服务范围存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构明确弱势人群类别和范围，制定弱势人群/患者便民措施指引。"
+        },
+        "tc": {
+            "diff": "弱勢人羣/患者的定義、服務範圍存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構明確弱勢人羣類別和範圍，制定弱勢人羣/患者便民措施指引。"
+        }
+    },
+    "Q4.3.1": {
+        "en": {
+            "diff": "There are differences in the names and formulations of clinical diagnosis and treatment standards and technical operation processes.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals, hospital institutions, or specialty co-ordinating committees formulate relevant clinical diagnosis and treatment standards and guidelines and implement them. "
+        },
+        "sc": {
+            "diff": "临床诊疗规范和技术操作流程的名称和制定主体存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或医院机构或专科统筹委员会制定相关临床诊疗标准和指引并实施。 "
+        },
+        "tc": {
+            "diff": "臨牀診療規範和技術操作流程的名稱和制定主體存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或醫院機構或專科統籌委員會制定相關臨牀診療標準和指引並實施。 "
+        }
+    },
+    "Q4.4.1": {
+        "en": {
+            "diff": "1. There are differences in the classification, time limit, personnel qualifications, and record requirements of in-hospital consultation.\n2. There are differences in the process of physician out-of-office consultation.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution shall formulate a consultation management system and clarify the management requirements such as personnel qualifications, time limits, and records.\n2. The hospital or management institution has guidelines for physicians to go out for consultation."
+        },
+        "sc": {
+            "diff": "1.院内会诊分类、时限、人员资质、记录要求存在差异。\n2.医师外出会诊流程存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构制定会诊管理制度，明确人员资质、时限、记录等管理要求。\n2.医院或管理机构有医师外出会诊指引。"
+        },
+        "tc": {
+            "diff": "1.院內會診分類、時限、人員資質、記錄要求存在差異。\n2.醫師外出會診流程存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構制定會診管理制度，明確人員資質、時限、記錄等管理要求。\n2.醫院或管理機構有醫師外出會診指引。"
+        }
+    },
+    "Q4.4.2": {
+        "en": {
+            "diff": "1. There are differences in the number of cases, time frames, participants, and records of death discussions.\n2. There are differences in hospital-level death monitoring methods.\n3. There are differences in the scope, time limit, participants, and records of difficult case discussions.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management body shall formulate a system for discussing death cases, clarifying the requirements for the cases to be discussed, the time limit, the participants, and the records.\n2. The hospital regularly (frequency according to local regulations) to carry out death monitoring, analysis, propose continuous improvement measures and give feedback to the clinic.\n3. The hospital or management institution shall formulate a system for discussing difficult cases, clarifying the requirements for the cases to be discussed, the time limit, the participants, and the records."
+        },
+        "sc": {
+            "diff": "1.死亡讨论的病例、时限、参与人员、记录存在差异。\n2.院级死亡监测方法存在差异。\n3.疑难病例讨论的范围、时限、参与人员、记录存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构制定死亡病例讨论制度，明确需要讨论的病例、时限、参与人员、记录等要求。\n2.医院定期（频率按当地规定）开展死亡监测、分析、提出持续改进措施并向临床反馈。\n3.医院或管理机构制定疑难病例讨论制度，明确需要讨论的病例、时限、参与人员、记录等要求。"
+        },
+        "tc": {
+            "diff": "1.死亡討論的病例、時限、參與人員、記錄存在差異。\n2.院級死亡監測方法存在差異。\n3.疑難病例討論的範圍、時限、參與人員、記錄存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構制定死亡病例討論制度，明確需要討論的病例、時限、參與人員、記錄等要求。\n2.醫院定期（頻率按當地規定）開展死亡監測、分析、提出持續改進措施並向臨牀反饋。\n3.醫院或管理機構制定疑難病例討論制度，明確需要討論的病例、時限、參與人員、記錄等要求。"
+        }
+    },
+    "Q5.1.1": {
+        "en": {
+            "diff": "There are differences in dietitian prescribing authority requirements.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management agency clarifies the management requirements such as dietitian qualifications and training."
+        },
+        "sc": {
+            "diff": "营养师处方权要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构明确营养师资质、培训等管理要求。"
+        },
+        "tc": {
+            "diff": "營養師處方權要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構明確營養師資質、培訓等管理要求。"
+        }
+    },
+    "Q5.2.1": {
+        "en": {
+            "diff": "There are differences in the administration of the authorization of the right to prescribe narcotic drugs and analgesics.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The authorization and management of the right to prescribe narcotic drugs and analgesics shall be managed in accordance with territorial requirements."
+        },
+        "sc": {
+            "diff": "对麻醉药品镇痛剂处方权授权管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "麻醉药品镇痛剂处方权授权管理按属地要求管理。"
+        },
+        "tc": {
+            "diff": "對麻醉藥品鎮痛劑處方權授權管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "麻醉藥品鎮痛劑處方權授權管理按屬地要求管理。"
+        }
+    },
+    "Q5.3.1": {
+        "en": {
+            "diff": "1. There are differences in the review of clinical blood applications and the hierarchical management of blood applications.\n2. There is no separation between the \"contaminated and non-contaminated areas\" of the blood transfusion department/blood bank.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Hospitals should clarify the requirements for the management of large amounts of blood transfusion, the review process and blood transfusion records.\n2. Blood banks should establish a workflow to avoid contamination of blood products."
+        },
+        "sc": {
+            "diff": "1.临床用血申请审核和用血申请分级管理存在差异。\n2.输血科/血库“污染区与非污染区”没有分开。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院要明确大量输血管理、审核流程及输血记录等要求。\n2.血库要建立工作流程，避免血液制品受到污染。"
+        },
+        "tc": {
+            "diff": "1.臨牀用血申請審核和用血申請分級管理存在差異。\n2.輸血科/血庫“污染區與非污染區”沒有分開。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院要明確大量輸血管理、審核流程及輸血記錄等要求。\n2.血庫要建立工作流程，避免血液製品受到污染。"
+        }
+    },
+    "Q5.3.4": {
+        "en": {
+            "diff": "There are differences in the requirements for autologous blood transfusion and for blood transfusion departments/blood banks to participate in the diagnosis and treatment of difficult cases.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or medical management institutions shall establish and implement relevant systems for blood transfusion departments/blood banks to participate in the diagnosis and treatment of difficult cases."
+        },
+        "sc": {
+            "diff": "自体输血，以及输血科/血库参与疑难病例诊疗要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或医疗管理机构建立有输血科/血库参与疑难病例诊疗的相关制度，并实施。"
+        },
+        "tc": {
+            "diff": "自體輸血，以及輸血科/血庫參與疑難病例診療要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或醫療管理機構建立有輸血科/血庫參與疑難病例診療的相關制度，並實施。"
+        }
+    },
+    "Q6.1.1": {
+        "en": {
+            "diff": "1. There are differences in surgical classification, authorization, and catalog management.\n2. There are differences in the requirements for determining the interventional surgical protocol.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution shall formulate a hierarchical management catalog and management requirements for surgeries (super-large and extra-large surgeries), and clarify the qualifications, authorizations and approval processes of personnel.\n2. Before the implementation of interventional diagnosis and treatment, it must be decided by a physician with the qualification and experience of interventional diagnosis and treatment, and it must be recorded."
+        },
+        "sc": {
+            "diff": "1.手术分级、授权、目录管理存在差异。\n2.确定介入手术方案的要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构制定手术（超大型及特别超大型手术）分级管理目录及管理要求，明确人员资质、授权及审批流程。\n2.实施介入诊疗前，必须经具有介入诊疗资格和经验的医师决定，并有记录。"
+        },
+        "tc": {
+            "diff": "1.手術分級、授權、目錄管理存在差異。\n2.確定介入手術方案的要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構制定手術（超大型及特別超大型手術）分級管理目錄及管理要求，明確人員資質、授權及審批流程。\n2.實施介入診療前，必須經具有介入診療資格和經驗的醫師決定，並有記錄。"
+        }
+    },
+    "Q6.1.2": {
+        "en": {
+            "diff": "1. There are differences in the scope of surgery, the requirements of the personnel involved in the discussion, and the process of preoperative discussion.\n2. There are differences in the qualification requirements for changing anesthesia methods.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution shall formulate a preoperative discussion system (scope, content, participants, recording methods, etc.) and procedures for preoperative discussion.\n2. The hospital or management institution shall formulate a management system for changing the anesthesia method (indications, qualifications and requirements for changing personnel, informed consent and recording methods)."
+        },
+        "sc": {
+            "diff": "1.术前讨论的手术范围、参与讨论的人员要求及流程存在差异。\n2.变更麻醉方式的资质要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构制定术前讨论制度（术前讨论的范围、内容、参加人员及记录方法等）及流程。\n2.医院或管理机构制定变更麻醉方式的管理制度（适应症、变更人员资质与要求、知情同意及记录方法）。"
+        },
+        "tc": {
+            "diff": "1.術前討論的手術範圍、參與討論的人員要求及流程存在差異。\n2.變更麻醉方式的資質要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構制定術前討論制度（術前討論的範圍、內容、參加人員及記錄方法等）及流程。\n2.醫院或管理機構制定變更麻醉方式的管理制度（適應症、變更人員資質與要求、知情同意及記錄方法）。"
+        }
+    },
+    "Q6.1.4": {
+        "en": {
+            "diff": "There is a difference in the ratio of beds in the resuscitation room to the operating table.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The resuscitation room is equipped to meet the requirements of surgical anesthesia."
+        },
+        "sc": {
+            "diff": "复苏室床位与手术台配比要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "复苏室配置能满足手术麻醉的要求。"
+        },
+        "tc": {
+            "diff": "復甦室牀位與手術枱配比要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "復甦室配置能滿足手術麻醉的要求。"
+        }
+    },
+    "Q6.1.5": {
+        "en": {
+            "diff": "1. There are differences in the scope of major surgery reports and approval processes.\n2. There were differences in the management of emergency surgery (grading).",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or medical institution shall formulate a major surgery reporting system (major surgery catalog, reporting process and recording method).\n2. Hospitals or medical institutions shall formulate a hierarchical management system for emergency surgery (emergency surgery grading standards and management requirements)."
+        },
+        "sc": {
+            "diff": "1.重大手术报告范围及审批流程存在差异。\n2.急诊手术（分级）的管理措施存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或医疗机构制定重大手术报告制度（重大手术目录、报告流程及记录方式）。\n2.医院或医疗机构制定急诊手术分级管理制度（急诊手术分级标准、管理要求）。"
+        },
+        "tc": {
+            "diff": "1.重大手術報告範圍及審批流程存在差異。\n2.急診手術（分級）的管理措施存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或醫療機構制定重大手術報告制度（重大手術目錄、報告流程及記錄方式）。\n2.醫院或醫療機構制定急診手術分級管理制度（急診手術分級標準、管理要求）。"
+        }
+    },
+    "Q6.1.7": {
+        "en": {
+            "diff": "There are differences in the management requirements for unplanned reoperations.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management agency formulates a management system for unplanned reoperation (clear definition, reporting scope, review and analysis, indicator monitoring, etc.)."
+        },
+        "sc": {
+            "diff": "非计划再次手术管理要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定非计划再次手术管理制度（明确定义、报告范围、检讨分析、指标监测等）。"
+        },
+        "tc": {
+            "diff": "非計劃再次手術管理要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定非計劃再次手術管理制度（明確定義、報告範圍、檢討分析、指標監測等）。"
+        }
+    },
+    "Q6.1.8": {
+        "en": {
+            "diff": "There were differences in the scope and frequency of follow-up.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management agency establishes a follow-up system/guideline (clarifying the scope and frequency of follow-up)."
+        },
+        "sc": {
+            "diff": "随访的范围、频次存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构建立随访制度/指引（明确随访的范围和频次）。"
+        },
+        "tc": {
+            "diff": "隨訪的範圍、頻次存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構建立隨訪制度/指引（明確隨訪的範圍和頻次）。"
+        }
+    },
+    "Q6.2.1": {
+        "en": {
+            "diff": "1. There are differences in the requirements for the layout of obstetric wards and delivery rooms.\n2. There are differences in the requirements for disinfection and isolation of the delivery room.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management agency shall formulate a management system for nosocomial infection in the delivery room."
+        },
+        "sc": {
+            "diff": "1.对产科病区及产房建筑布局设置要求存在差异。\n2.对产房消毒隔离要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定产房医院感染管理制度。"
+        },
+        "tc": {
+            "diff": "1.對產科病區及產房建築佈局設置要求存在差異。\n2.對產房消毒隔離要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定產房醫院感染管理制度。"
+        }
+    },
+    "Q6.2.3": {
+        "en": {
+            "diff": "1. There are differences in the requirements for the layout of the neonatal room environment.\n2. There are differences in the surveillance of neonatal nosocomial infections.",
+            "cons": "In addition to the monitoring of central venous catheter-related bloodstream infections and MRSA, it is recommended to increase the monitoring of the incidence of neonatal nosocomial infections in the neonatal intensive care unit.",
+            "prac": "The hospital or management institution shall formulate a nosocomial infection monitoring system for the neonatal intensive care unit, and clarify the monitoring content and requirements."
+        },
+        "sc": {
+            "diff": "1.对新生儿室环境布局要求存在差异。\n2.对新生儿医院感染监测存在差异。",
+            "cons": "新生儿深切治疗部的监测，除了对中心静脉导管相关血流感染, MRSA等监测外，建议增加新生儿医院感染发病率的监测。",
+            "prac": "医院或管理机构制定新生儿深切治疗部医院感染监测制度，明确监测内容及要求。"
+        },
+        "tc": {
+            "diff": "1.對新生兒室環境佈局要求存在差異。\n2.對新生兒醫院感染監測存在差異。",
+            "cons": "新生兒深切治療部的監測，除了對中心靜脈導管相關血流感染, MRSA等監測外，建議增加新生兒醫院感染髮病率的監測。",
+            "prac": "醫院或管理機構制定新生兒深切治療部醫院感染監測制度，明確監測內容及要求。"
+        }
+    },
+    "Q6.3.1": {
+        "en": {
+            "diff": "There are differences in the layout of the hemodialysis room and the requirements for the professional setting of medical, nursing and technical positions.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution shall establish a management system for the hemodialysis center."
+        },
+        "sc": {
+            "diff": "对血液透析室区布局，医、护、技岗位专业设置的要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定血液透析中心的管理制度。"
+        },
+        "tc": {
+            "diff": "對血液透析室區佈局，醫、護、技崗位專業設置的要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定血液透析中心的管理制度。"
+        }
+    },
+    "Q6.3.2": {
+        "en": {
+            "diff": "There are differences in the requirements for testing dialysis patients in blood purification rooms for hepatitis B virus, hepatitis C virus, syphilis, and HIV infection.",
+            "cons": "1. Blood-borne disease testing for first-time hemodialysis patients shall be carried out according to the requirements of the hospital or management institution.\n2. Regular testing for blood-borne diseases in long-term hemodialysis patients.",
+            "prac": "Hospitals or management institutions shall formulate a nosocomial infection management system for blood purification centers, and clarify the requirements for the content and frequency of blood-borne disease testing for hemodialysis patients."
+        },
+        "sc": {
+            "diff": "对血液净化室透析患者进行乙型肝炎病毒、丙型肝炎病毒、梅毒、艾滋病毒感染检测的要求存在差异。",
+            "cons": "1.对初次血液透析患者进行血液传播性疾病检测按医院或管理机构要求执行。\n2.对长期血液透析患者定期进行血液传播性疾病检测。",
+            "prac": "医院或管理机构制定血液净化中心医院感染管理制度，明确对血液透析患者血液传播性疾病检测内容和频次要求。"
+        },
+        "tc": {
+            "diff": "對血液淨化室透析患者進行乙型肝炎病毒、丙型肝炎病毒、梅毒、艾滋病毒感染檢測的要求存在差異。",
+            "cons": "1.對初次血液透析患者進行血液傳播性疾病檢測按醫院或管理機構要求執行。\n2.對長期血液透析患者定期進行血液傳播性疾病檢測。",
+            "prac": "醫院或管理機構制定血液淨化中心醫院感染管理制度，明確對血液透析患者血液傳播性疾病檢測內容和頻次要求。"
+        }
+    },
+    "Q6.6.1": {
+        "en": {
+            "diff": "There are differences in transplant physician credentials.",
+            "cons": "It shall be implemented in accordance with local laws, regulations and management provisions.",
+            "prac": "In accordance with local laws, regulations and management provisions."
+        },
+        "sc": {
+            "diff": "移植医生资质认证存在差异。",
+            "cons": "按当地法律法规和管理规定实施。",
+            "prac": "按当地法律法规和管理规定执行。"
+        },
+        "tc": {
+            "diff": "移植醫生資質認證存在差異。",
+            "cons": "按當地法律法規和管理規定實施。",
+            "prac": "按當地法律法規和管理規定執行。"
+        }
+    },
+    "Q6.6.2": {
+        "en": {
+            "diff": "There are differences in the unified distribution of organs obtained into the Chinese Human Organ Allocation and Sharing System (COTRS System).",
+            "cons": "It shall be implemented in accordance with local laws, regulations and management provisions.",
+            "prac": "Implement and implement in accordance with local laws, regulations and management provisions."
+        },
+        "sc": {
+            "diff": "获取器官录入中国人体器官分配与共享系统（简称 COTRS 系统）统一分配存在差异。",
+            "cons": "按当地法律法规和管理规定实施。",
+            "prac": "按当地法律法规和管理规定执行，并落实。"
+        },
+        "tc": {
+            "diff": "獲取器官錄入中國人體器官分配與共享系統（簡稱 COTRS 系統）統一分配存在差異。",
+            "cons": "按當地法律法規和管理規定實施。",
+            "prac": "按當地法律法規和管理規定執行，並落實。"
+        }
+    },
+    "Q7.1.4": {
+        "en": {
+            "diff": "There are differences in microbial culture management.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Formulate guidelines for the management of microbial cultures."
+        },
+        "sc": {
+            "diff": "微生物菌种管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "制定微生物菌种管理指引。"
+        },
+        "tc": {
+            "diff": "微生物菌種管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "制定微生物菌種管理指引。"
+        }
+    },
+    "Q7.1.5": {
+        "en": {
+            "diff": "There are differences in the practices and processes for the review and signature of inspection reports.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Formulate guidelines to clarify the inspection report review process, authority and signature requirements."
+        },
+        "sc": {
+            "diff": "检验检查报告审核及签名做法及流程存在差异。 ",
+            "cons": "按当地管理办法实施。",
+            "prac": "制定指引，明确检验检查报告审核流程、权限和签名要求。"
+        },
+        "tc": {
+            "diff": "檢驗檢查報告審核及簽名做法及流程存在差異。 ",
+            "cons": "按當地管理辦法實施。",
+            "prac": "制定指引，明確檢驗檢查報告審核流程、權限和簽名要求。"
+        }
+    },
+    "M1.1.1": {
+        "en": {
+            "diff": "There are differences in hospital governance systems.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Refer to function 1.1.1 Regional Policy Implementation."
+        },
+        "sc": {
+            "diff": "医院治理体系存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "参照功能1.1.1区域政策执行。"
+        },
+        "tc": {
+            "diff": "醫院治理體系存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "參照功能1.1.1區域政策執行。"
+        }
+    },
+    "M1.1.2": {
+        "en": {
+            "diff": "There are differences in the definition, scope and scope of material matters (\"three major and one large\").",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals and hospital management institutions determine the management requirements for major events and organize their implementation."
+        },
+        "sc": {
+            "diff": "重大事项（“三重一大”）定义、范围及存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院及医院管理机构确定重大事项管理要求并组织实施。"
+        },
+        "tc": {
+            "diff": "重大事項（“三重一大”）定義、範圍及存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院及醫院管理機構確定重大事項管理要求並組織實施。"
+        }
+    },
+    "M1.2.1": {
+        "en": {
+            "diff": "There were differences in the grading and classification criteria for adverse events.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution shall establish a medical quality (safety) adverse event management system and establish a relevant reporting process."
+        },
+        "sc": {
+            "diff": "不良事件的分级、分类标准有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构建立医疗质量（安全）不良事件管理制度，建立相关报告流程。"
+        },
+        "tc": {
+            "diff": "不良事件的分級、分類標準有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構建立醫療質量（安全）不良事件管理制度，建立相關報告流程。"
+        }
+    },
+    "M1.3.1": {
+        "en": {
+            "diff": "1. There are differences in the establishment of hospital corporations.\n2. There are differences in the practice licenses of medical institutions.",
+            "cons": "It shall be implemented in accordance with local medical and health laws, rules and regulations.",
+            "prac": "It shall be implemented in accordance with the local \"Measures for the Management of Hospital Management Institutions\"."
+        },
+        "sc": {
+            "diff": "1.医院法人设置存在差异。\n2.医疗机构执业许可存在差异。",
+            "cons": "按当地医疗卫生法律、法规及规章实施。",
+            "prac": "按当地《医院管理机构管理办法》执行。"
+        },
+        "tc": {
+            "diff": "1.醫院法人設置存在差異。\n2.醫療機構執業許可存在差異。",
+            "cons": "按當地醫療衞生法律、法規及規章實施。",
+            "prac": "按當地《醫院管理機構管理辦法》執行。"
+        }
+    },
+    "M1.5.1": {
+        "en": {
+            "diff": "There are differences in the content and form of disclosure of hospital affairs.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or hospital management body shall formulate regulations/guidelines for the disclosure of hospital affairs, and clarify the content and form of disclosure."
+        },
+        "sc": {
+            "diff": "院务公开的内容和形式存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或医院管理机构制定院务公开规定/指引，明确公开的内容和形式。"
+        },
+        "tc": {
+            "diff": "院務公開的內容和形式存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或醫院管理機構制定院務公開規定/指引，明確公開的內容和形式。"
+        }
+    },
+    "M1.5.2": {
+        "en": {
+            "diff": "There are differences in the content and form of the disclosure of hospital affairs (outside the hospital).",
+            "cons": "Implement according to local management measures.",
+            "prac": "Refer to management 1.5.1 regional policy implementation."
+        },
+        "sc": {
+            "diff": "院务公开（院外）的内容和形式存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "参照管理1.5.1区域政策执行。"
+        },
+        "tc": {
+            "diff": "院務公開（院外）的內容和形式存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "參照管理1.5.1區域政策執行。"
+        }
+    },
+    "M1.5.3": {
+        "en": {
+            "diff": "There are differences in the subject of satisfaction evaluation and the evaluation index system.",
+            "cons": "Hospitals or hospital management institutions shall formulate a satisfaction survey system.",
+            "prac": "In accordance with the satisfaction survey system formulated by the hospital or hospital management agency."
+        },
+        "sc": {
+            "diff": "满意度测评主体和测评指标体系存在差异。",
+            "cons": "医院或医院管理机构制定满意度调查制度。",
+            "prac": "按照医院或医院管理机构制定的满意度调查制度执行。"
+        },
+        "tc": {
+            "diff": "滿意度測評主體和測評指標體系存在差異。",
+            "cons": "醫院或醫院管理機構制定滿意度調查制度。",
+            "prac": "按照醫院或醫院管理機構制定的滿意度調查制度執行。"
+        }
+    },
+    "M2.1.1": {
+        "en": {
+            "diff": "There are differences in the emergency replacement system, procedures and programs for personnel at the hospital and department levels. It is different from the allocation of human resources in the Mainland.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or governing body establishes a system or management requirement for the mobilization of manpower in an emergency."
+        },
+        "sc": {
+            "diff": "院科两级人员紧急替代制度、程序和方案有差异。与内地的人力资源配置不同。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定紧急情况下调动人手的制度或管理要求。"
+        },
+        "tc": {
+            "diff": "院科兩級人員緊急替代制度、程序和方案有差異。與內地的人力資源配置不同。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定緊急情況下調動人手的制度或管理要求。"
+        }
+    },
+    "M2.1.3": {
+        "en": {
+            "diff": "There are differences in the relevant regulations on equal pay for equal work in hospitals, the distribution system of more work and more pay, and better pay.",
+            "cons": "Implement according to local management measures.\nAccording to the monthly salary system implemented in Hong Kong, the monthly salary system of the Hong Kong Hospital Authority is the content of the system.",
+            "prac": "1. The monthly salary system formulated by the hospital or management agency, and the establishment of personnel positions, qualifications, work experience and other post management requirements.\n2. The hospital establishes personal files, regularly evaluates employees' work performance and job competency, and records and other management."
+        },
+        "sc": {
+            "diff": "医院同工同酬有关规定、多劳多得、优绩优酬的分配制度有差异。",
+            "cons": "按当地管理办法实施。\n按照香港实行月薪的制度，以香港医管局月薪制作为制度内容。",
+            "prac": "1.医院或管理机构制定的月薪制度，设立人员职位、资质、工作经验等岗位管理要求。\n2.医院建立个人档案，有定期评估员工工作绩效和岗位胜任力，记录等管理。"
+        },
+        "tc": {
+            "diff": "醫院同工同酬有關規定、多勞多得、優績優酬的分配製度有差異。",
+            "cons": "按當地管理辦法實施。\n按照香港實行月薪的制度，以香港醫管局月薪製作為制度內容。",
+            "prac": "1.醫院或管理機構制定的月薪制度，設立人員職位、資質、工作經驗等崗位管理要求。\n2.醫院建立個人檔案，有定期評估員工工作績效和崗位勝任力，記錄等管理。"
+        }
+    },
+    "M2.1.4": {
+        "en": {
+            "diff": "1. There are differences in the need for professional and technical personnel of some medical services to hold certificates (licenses) to carry out relevant medical services.\n2. There are differences in the qualifications of personnel who carry out rehabilitation services and pain treatment.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management institution clarifies the scope of relevant medical services and the management rules for rehabilitation services and pain treatment that professional and technical personnel need to hold a certificate (license)."
+        },
+        "sc": {
+            "diff": "1.部分医疗服务的专业技术人员需持证（执照）开展相关医疗服务存在差异。\n2.开展康复服务、疼痛治疗的人员资质存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构明确专业技术人员需持证（执照）开展相关医疗服务的范围及康复服务、疼痛治疗的管理规则。"
+        },
+        "tc": {
+            "diff": "1.部分醫療服務的專業技術人員需持證（執照）開展相關醫療服務存在差異。\n2.開展康復服務、疼痛治療的人員資質存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構明確專業技術人員需持證（執照）開展相關醫療服務的範圍及康復服務、疼痛治療的管理規則。"
+        }
+    },
+    "M2.2.1": {
+        "en": {
+            "diff": "Continuing education requirements vary.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Perform professional continuing training requirements."
+        },
+        "sc": {
+            "diff": "继续教育要求有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "执行专业持续培训要求。"
+        },
+        "tc": {
+            "diff": "繼續教育要求有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "執行專業持續培訓要求。"
+        }
+    },
+    "M2.2.2": {
+        "en": {
+            "diff": "There are differences in the professional training of hospital leaders.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management organization shall establish a system for the training of middle and senior management personnel (executive leadership plan) of the hospital."
+        },
+        "sc": {
+            "diff": "对医院领导人员的职业化培训有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构建立医院中层及高层管理人员培训(行政领导计划)制度。"
+        },
+        "tc": {
+            "diff": "對醫院領導人員的職業化培訓有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構建立醫院中層及高層管理人員培訓(行政領導計劃)制度。"
+        }
+    },
+    "M2.2.5": {
+        "en": {
+            "diff": "There are differences in the content of the nine criteria for the evaluation of medical ethics and the construction of work style.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals implement territorial management requirements (e.g. Prevention of Bribery Ordinance, Code of Professional Conduct for Registered Medical Practitioners, etc.)."
+        },
+        "sc": {
+            "diff": "医德考评和行风建设九项准则内容存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院执行属地管理要求（如《防止贿赂条例》、《注册医生专业守则》、《行为守则》等规定）。"
+        },
+        "tc": {
+            "diff": "醫德考評和行風建設九項準則內容存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院執行屬地管理要求（如《防止賄賂條例》、《註冊醫生專業守則》、《行為守則》等規定）。"
+        }
+    },
+    "M2.3.1": {
+        "en": {
+            "diff": "1. There are differences in the management methods of employees' personal health records.\n2. There are differences in the organizational structure, process and work development method of managing matters related to occupational safety protection.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Employees' personal health records shall be implemented in accordance with the relevant regulations of the hospital or management institution.\n2. The hospital or management institution shall formulate a safety manual to clarify the work guidelines for occupational safety protection, the impact of display equipment on the health of employees, the management system and process of employees' physical operation, the intervention of workplace violence and violations, and the psychological intervention of employees."
+        },
+        "sc": {
+            "diff": "1.员工个人健康档案管理方式存在差异。\n2.管理涉职业安全防护相关事务的组织机构、流程及工作开展方式存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.员工个人健康档案按医院或管理机构相关规定执行。\n2.医院或管理机构制定安全手册，明确职业安全防护、显示屏设备对员工健康的影响、员工体力操作的管理制度和流程、工作场所暴力和侵犯行为的干预、员工心理干预等方面工作指引。"
+        },
+        "tc": {
+            "diff": "1.員工個人健康檔案管理方式存在差異。\n2.管理涉職業安全防護相關事務的組織機構、流程及工作開展方式存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.員工個人健康檔案按醫院或管理機構相關規定執行。\n2.醫院或管理機構制定安全手冊，明確職業安全防護、顯示屏設備對員工健康的影響、員工體力操作的管理制度和流程、工作場所暴力和侵犯行為的干預、員工心理干預等方面工作指引。"
+        }
+    },
+    "M2.3.4": {
+        "en": {
+            "diff": "There are differences in the management requirements for patients and staff in isotope settings.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or regulatory agencies develop guidelines related to radiation protection."
+        },
+        "sc": {
+            "diff": "对同位素诊疗场所患者与工作人员的管理要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定放射防护相关指引。"
+        },
+        "tc": {
+            "diff": "對同位素診療場所患者與工作人員的管理要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定放射防護相關指引。"
+        }
+    },
+    "M3.1.5": {
+        "en": {
+            "diff": "1. There are differences in the medical insurance management system.\n2. There are differences in the charging price system.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Implement the relevant regulations and systems of local \"medical insurance/price charges\", and implement them."
+        },
+        "sc": {
+            "diff": "1.医疗保险管理体系存在差异。\n2.收费价格体系存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "执行当地“医疗保险/价格收费”相关规定、制度，并落实。"
+        },
+        "tc": {
+            "diff": "1.醫療保險管理體系存在差異。\n2.收費價格體系存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "執行當地“醫療保險/價格收費”相關規定、制度，並落實。"
+        }
+    },
+    "M3.1.6": {
+        "en": {
+            "diff": "There are differences in the departments responsible for the procurement of medicines, consumables, equipment, goods, and infrastructure.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Implement the relevant provisions of the local \"Measures for the Management of Hospital Management Institutions\"."
+        },
+        "sc": {
+            "diff": "药品、耗材、设备、物品、基建采购负责部门存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "执行当地《医院管理机构管理办法》相关规定。"
+        },
+        "tc": {
+            "diff": "藥品、耗材、設備、物品、基建採購負責部門存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "執行當地《醫院管理機構管理辦法》相關規定。"
+        }
+    },
+    "M4.1.2": {
+        "en": {
+            "diff": "There are differences in the subjects of the formulation of the Document Control System.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Implement the relevant provisions of the local \"Measures for the Management of Hospital Management Institutions\"."
+        },
+        "sc": {
+            "diff": "制定《文件控制制度》主体存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "执行当地《医院管理机构管理办法》相关规定。"
+        },
+        "tc": {
+            "diff": "制定《文件控制制度》主體存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "執行當地《醫院管理機構管理辦法》相關規定。"
+        }
+    },
+    "M4.1.3": {
+        "en": {
+            "diff": "There are differences in the content of the operation and business indicator data extracted by the hospital information system.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Hospitals or management institutions establish a database of statistical indicators for basic operation and medical and nursing services;\n2. The hospital or management institution shall establish a medical and nursing business index system;\nSpecify that departments or personnel are responsible for regularly reviewing, monitoring, analyzing, and improving medical quality and safety management."
+        },
+        "sc": {
+            "diff": "医院信息系统提取运行及业务指标数据的内容有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构建立基本运行及医疗、护理业务统计指标数据库；\n2.医院或管理机构建立医疗、护理业务指标体系；\n明确部门或人员负责定期检讨、监测、分析、改进医疗质量与安全管理工作。"
+        },
+        "tc": {
+            "diff": "醫院信息系統提取運行及業務指標數據的內容有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構建立基本運行及醫療、護理業務統計指標數據庫；\n2.醫院或管理機構建立醫療、護理業務指標體系；\n明確部門或人員負責定期檢討、監測、分析、改進醫療質量與安全管理工作。"
+        }
+    },
+    "M4.1.4": {
+        "en": {
+            "diff": "There are differences in the implementation of hierarchical protection and hierarchical management of information systems.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution shall establish an information security protection system and have a disaster prevention and backup system;\n2. The hospital has measures such as the implementation of information system operation authority control (including database and operation system);\n3. The hospital or management organization has anti-virus, anti-intrusion measures and emergency (such as system paralysis) treatment plan and organizes drills."
+        },
+        "sc": {
+            "diff": "实行信息系统等级保护及分级管理有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构建立信息安全保护制度，具有防灾备份系统；\n2.医院有实行信息系统操作权限控制（包括数据库和运用系统）等措施；\n3.医院或管理机构有防病毒、防入侵措施及应急（如系统瘫痪）处理预案并组织演练。"
+        },
+        "tc": {
+            "diff": "實行信息系統等級保護及分級管理有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構建立信息安全保護制度，具有防災備份系統；\n2.醫院有實行信息系統操作權限控制（包括數據庫和運用系統）等措施；\n3.醫院或管理機構有防病毒、防入侵措施及應急（如系統癱瘓）處理預案並組織演練。"
+        }
+    },
+    "M4.2.1": {
+        "en": {
+            "diff": "1. There are differences in the form and content of the main information presentation of inpatient medical records.\n2. There are differences in the filing time of medical records of discharged patients.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or management bodies shall formulate a medical record management system, clarifying the form and content of information collection on patients' inpatient medical records."
+        },
+        "sc": {
+            "diff": "1.住院患者病历的主要信息展现形式、内容存在差异 。\n2.出院患者病历归档时间存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定病历管理制度，明确患者住院病历信息采集的形式、内容。"
+        },
+        "tc": {
+            "diff": "1.住院患者病歷的主要信息展現形式、內容存在差異 。\n2.出院患者病歷歸檔時間存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定病歷管理制度，明確患者住院病歷信息採集的形式、內容。"
+        }
+    },
+    "M4.2.2": {
+        "en": {
+            "diff": "There are differences in the format, time limit, content, and signature requirements of medical records.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals and management institutions shall formulate requirements for writing outpatient, emergency, and inpatient medical records."
+        },
+        "sc": {
+            "diff": "病历书写格式、时限要求、内容及签名要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院及管理机构制定门诊、急诊、住院病历书写要求。"
+        },
+        "tc": {
+            "diff": "病歷書寫格式、時限要求、內容及簽名要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院及管理機構制定門診、急診、住院病歷書寫要求。"
+        }
+    },
+    "M5.1.1": {
+        "en": {
+            "diff": "There are differences in the management of medical ethics review.",
+            "cons": "It shall be implemented in accordance with the management measures of local hospitals or medical institutions.",
+            "prac": "It shall be implemented in accordance with the management measures of local hospitals or medical institutions."
+        },
+        "sc": {
+            "diff": "医学伦理审查管理存在差异。",
+            "cons": "按当地医院或医疗机构管理办法实施。",
+            "prac": "按当地医院或医疗机构管理办法执行。"
+        },
+        "tc": {
+            "diff": "醫學倫理審查管理存在差異。",
+            "cons": "按當地醫院或醫療機構管理辦法實施。",
+            "prac": "按當地醫院或醫療機構管理辦法執行。"
+        }
+    },
+    "M6.1.1": {
+        "en": {
+            "diff": "1. There are differences in the construction of sewage stations.\n2. There are differences in the classification of medical waste.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Sewage treatment meets the relevant legal requirements of Hong Kong.\n2. There are relevant requirements for the classification of medical waste."
+        },
+        "sc": {
+            "diff": "1.污水站建设有差异。\n2.医疗废物的分类有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.污水处理符合香港相关法律要求。\n2.医疗废物分类有相关要求。"
+        },
+        "tc": {
+            "diff": "1.污水站建設有差異。\n2.醫療廢物的分類有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.污水處理符合香港相關法律要求。\n2.醫療廢物分類有相關要求。"
+        }
+    },
+    "M6.1.3": {
+        "en": {
+            "diff": "There are differences in the food sample retention system and the annual health examination requirements.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Hospitals should have food safety and hygiene management systems and guarantee systems, and conduct laboratory tests for food regularly to ensure safety.\n2. Catering staff conduct self-health examination and assessment."
+        },
+        "sc": {
+            "diff": "食品留样制度、年度健康查体要求有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院要有食品安全与卫生管理制度和保障制度，定期为食物进行化验测试，确保安全。\n2.餐饮人员自我进行健康查体评估。"
+        },
+        "tc": {
+            "diff": "食品留樣制度、年度健康查體要求有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院要有食品安全與衞生管理制度和保障制度，定期為食物進行化驗測試，確保安全。\n2.餐飲人員自我進行健康查體評估。"
+        }
+    },
+    "M6.1.4": {
+        "en": {
+            "diff": "1. There are differences in hospital security staffing standards.\n2. There are differences in the management and use of hospital video surveillance resources.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. Manage according to the requirements of the territorial security staffing standards.\n2. Establish specifications for the management of video surveillance facilities in key environments and key locations."
+        },
+        "sc": {
+            "diff": "1.医院安保人员配备标准有差异。\n2.医院视频监控资源管理与使用有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.按属地安保人员配备标准要求管理。\n2.建立重点环境、重点部位视频监控设施管理规范。"
+        },
+        "tc": {
+            "diff": "1.醫院安保人員配備標準有差異。\n2.醫院視頻監控資源管理與使用有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.按屬地安保人員配備標準要求管理。\n2.建立重點環境、重點部位視頻監控設施管理規範。"
+        }
+    },
+    "M6.1.5": {
+        "en": {
+            "diff": "1. There are differences in fire training, fire safety inspection time cycle, and the number of people on duty in the fire control room.\n2. There are differences in the management standards of dangerous goods.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or hospital management institution shall formulate a fire management system or guidelines, and clarify the frequency and content of fire protection training and safety inspections.\n2. Hospitals and hospital management institutions shall formulate dangerous goods management systems or guidelines, and clarify the scope and requirements of management."
+        },
+        "sc": {
+            "diff": "1.消防培训、消防安全检查时间周期、消防监控室值班人数存在差异。\n2.危险品管理标准存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或医院管理机构制定消防管理制度或指引，明确消防培训、安全检查频次和内容。\n2.医院和医院管理机构制定危险品管理制度或指引，明确管理范围和要求。"
+        },
+        "tc": {
+            "diff": "1.消防培訓、消防安全檢查時間週期、消防監控室值班人數存在差異。\n2.危險品管理標準存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或醫院管理機構制定消防管理制度或指引，明確消防培訓、安全檢查頻次和內容。\n2.醫院和醫院管理機構制定危險品管理制度或指引，明確管理範圍和要求。"
+        }
+    },
+    "M6.2.1": {
+        "en": {
+            "diff": "There are differences in the maintenance management of equipment.",
+            "cons": "Implement according to local management measures.",
+            "prac": "There are maintenance and management requirements for rescue and life support equipment."
+        },
+        "sc": {
+            "diff": "设备的维护保养管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "抢救类、生命支援类设备有维护管理要求。"
+        },
+        "tc": {
+            "diff": "設備的維護保養管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "搶救類、生命支援類設備有維護管理要求。"
+        }
+    },
+    "M6.2.2": {
+        "en": {
+            "diff": "There are differences in the management of measuring instruments and equipment.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The management of measuring instruments and equipment meets the requirements of territorial management."
+        },
+        "sc": {
+            "diff": "计量仪器设备管理存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "计量仪器设备管理符合属地管理要求。"
+        },
+        "tc": {
+            "diff": "計量儀器設備管理存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "計量儀器設備管理符合屬地管理要求。"
+        }
+    },
+    "M6.2.4": {
+        "en": {
+            "diff": "There are differences in the maintenance system and standards of the equipment.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Refer to management 6.2.1 regional policy."
+        },
+        "sc": {
+            "diff": "设备的维护保养制度与标准有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "参照管理6.2.1区域政策执行。"
+        },
+        "tc": {
+            "diff": "設備的維護保養制度與標準有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "參照管理6.2.1區域政策執行。"
+        }
+    },
+    "M6.2.5": {
+        "en": {
+            "diff": "There are differences in the risk classification of high-value medical consumables.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital implements the relevant medical consumables management system of the hospital management institution.\n2. Hospitals should have a management process for the traceability of high-risk medical consumables and the reporting of adverse events."
+        },
+        "sc": {
+            "diff": "高值医用耗材风险分类存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院根据医院管理机构相关医用耗材管理的制度落实执行。\n2.医院要有对高风险医用耗材溯源、不良事件报告的管理流程。"
+        },
+        "tc": {
+            "diff": "高值醫用耗材風險分類存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院根據醫院管理機構相關醫用耗材管理的制度落實執行。\n2.醫院要有對高風險醫用耗材溯源、不良事件報告的管理流程。"
+        }
+    },
+    "M6.3.1": {
+        "en": {
+            "diff": "1. There are differences in the requirements and evaluation criteria for the layout process of radioactive workplaces such as nuclear medicine departments.\n2. There are differences in the access process of radiation diagnosis and treatment permits, and there are differences in the requirements for the pre-evaluation of occupational disease hazards (radiation protection), the evaluation of control effects, and the completion acceptance of radiation site construction projects.",
+            "cons": "Implement according to local management measures.",
+            "prac": "Hospitals or regulatory agencies formulate guidelines related to radiation protection and monitoring requirements for the environment, equipment and facilities, and individuals."
+        },
+        "sc": {
+            "diff": "1.对核医学科等放射性工作场所布局流程的要求及评判标准存在差异。\n2.在放射诊疗许可准入流程上存在差异，对放射场所建设项目职业病危害（放射防护）预评价、控制效果评价，竣工验收等要求存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定放射防护相关指引和对环境、设备设施、个人的监测要求。"
+        },
+        "tc": {
+            "diff": "1.對核醫學科等放射性工作場所佈局流程的要求及評判標準存在差異。\n2.在放射診療許可准入流程上存在差異，對放射場所建設項目職業病危害（放射防護）預評價、控制效果評價，竣工驗收等要求存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定放射防護相關指引和對環境、設備設施、個人的監測要求。"
+        }
+    },
+    "M6.4.1": {
+        "en": {
+            "diff": "There are differences in the overall emergency response plan prepared by the hospital in combination with the actual situation.",
+            "cons": "Implement according to local management measures.",
+            "prac": "1. The hospital or management institution shall formulate emergency plans for all kinds of major in-hospital emergencies.\n2. Conduct regular risk assessments, improve emergency plans, and clarify job responsibilities and work processes."
+        },
+        "sc": {
+            "diff": "医院结合实际编制突发公共事件应急总体预案有差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "1.医院或管理机构应制定各类主要院内突发紧急事件的应急预案。\n2.定期进行风险评估，完善应急预案，明确岗位职责与工作流程。"
+        },
+        "tc": {
+            "diff": "醫院結合實際編制突發公共事件應急總體預案有差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "1.醫院或管理機構應制定各類主要院內突發緊急事件的應急預案。\n2.定期進行風險評估，完善應急預案，明確崗位職責與工作流程。"
+        }
+    },
+    "M6.4.3": {
+        "en": {
+            "diff": "There are differences in the frequency of fire drills and fire protection facility inspections in hospitals.",
+            "cons": "Implement according to local management measures.",
+            "prac": "The hospital or management agency formulates a fire drill plan and an inspection system for fire protection facilities."
+        },
+        "sc": {
+            "diff": "医院消防演练及消防设施检查频次存在差异。",
+            "cons": "按当地管理办法实施。",
+            "prac": "医院或管理机构制定消防演练计划及消防设施检查制度。"
+        },
+        "tc": {
+            "diff": "醫院消防演練及消防設施檢查頻次存在差異。",
+            "cons": "按當地管理辦法實施。",
+            "prac": "醫院或管理機構制定消防演練計劃及消防設施檢查制度。"
+        }
+    }
+}

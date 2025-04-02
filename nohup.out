@@ -1,0 +1,40 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.0.0.89:8501
+  External URL: http://172.191.151.49:8501
+
+2025-04-02 07:26:19.730 Uncaught app execution
+Traceback (most recent call last):
+  File "/home/vscode/.local/lib/python3.11/site-packages/opencc/__init__.py", line 7, in <module>
+    import opencc_clib
+ModuleNotFoundError: No module named 'opencc_clib'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/vscode/.local/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 121, in exec_func_with_error_handling
+    result = func()
+             ^^^^^^
+  File "/home/vscode/.local/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 640, in code_to_exec
+    exec(code, module.__dict__)
+  File "/workspaces/blank-app/streamlit_app.py", line 18, in <module>
+    import opencc
+  File "/home/vscode/.local/lib/python3.11/site-packages/opencc/__init__.py", line 9, in <module>
+    from opencc.clib import opencc_clib
+ImportError: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /home/vscode/.local/lib/python3.11/site-packages/opencc/clib/opencc_clib.cpython-311-x86_64-linux-gnu.so)
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.0.0.89:8501
+  External URL: http://172.191.151.49:8501
+
